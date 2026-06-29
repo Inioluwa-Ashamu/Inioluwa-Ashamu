@@ -45,4 +45,4 @@ I’m currently building a staff/session allocation recommender that combines co
 ## Contact
 
 * GitHub: [@Inioluwa-Ashamu](https://github.com/Inioluwa-Ashamu)
-* LinkedIn: add your LinkedIn URL here
+* LinkedIn: www.linkedin.com/in/inioluwa-ashamu
